@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "78F9D25C-F696-419F-A282-345461AD43C6"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0519AFC6-ABA8-4458-82AE-186991B32E97"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ByteCoin/Controller/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "0519AFC6-ABA8-4458-82AE-186991B32E97 - 1fe5145b00123283"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ByteCoin.ViewController.coinManager.getter : ByteCoin.CoinManager"
+                  moduleName = "ByteCoin"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dewimadden/Library/Mobile%20Documents/com~apple~CloudDocs/Education/iOS/Udemy%20-%20iOS%2013%20and%20Swift/5.%20Development/ByteCoin-iOS13/ByteCoin/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "0519AFC6-ABA8-4458-82AE-186991B32E97 - a84d4b4ebba7b88"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ByteCoin.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; ByteCoin.ViewController"
+                  moduleName = "ByteCoin"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dewimadden/Library/Mobile%20Documents/com~apple~CloudDocs/Education/iOS/Udemy%20-%20iOS%2013%20and%20Swift/5.%20Development/ByteCoin-iOS13/ByteCoin/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "252">
+               </Location>
+               <Location
+                  uuid = "0519AFC6-ABA8-4458-82AE-186991B32E97 - b1d42a49f76eb432"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ByteCoin.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;ByteCoin.ViewController&gt;"
+                  moduleName = "ByteCoin"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dewimadden/Library/Mobile%20Documents/com~apple~CloudDocs/Education/iOS/Udemy%20-%20iOS%2013%20and%20Swift/5.%20Development/ByteCoin-iOS13/ByteCoin/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "228">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
